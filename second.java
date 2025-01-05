@@ -1,4 +1,4 @@
 public class second {
     // second file pushed to main
-    //adding third line from local
+    // adding extra line directly from git
 }
